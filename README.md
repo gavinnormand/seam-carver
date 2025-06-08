@@ -30,7 +30,7 @@ As part of my Fundamentals of Computer Science II course, my partner and I worke
 * Press "u" at any time to begin reinserting the removed seams on every tick.
 * Press "e" to toggle between seeing the actual colors of each pixel, or being able to see each pixel's energy.
 
-By instructor policy, source code can be accessed only by request.
+*By instructor policy, source code can be accessed only by request.*
 
 
 
